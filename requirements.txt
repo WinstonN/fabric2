@@ -57,7 +57,7 @@ toggl-jira-sync==0.0.5
 typing==3.6.6
 typing-extensions==3.7.4.1
 ujson==2.0.3
-urllib3==1.25.8
+urllib3==1.26.5
 v20==3.0.25.0
 virtualenv==20.0.5
 virtualenv-clone==0.5.3
